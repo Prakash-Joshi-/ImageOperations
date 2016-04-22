@@ -1,0 +1,5 @@
+D:\Prakash\DemoSolution\ImageOperations\ScreenShotCapture\bin\Debug\ScreenShotCapture.exe
+D:\Prakash\DemoSolution\ImageOperations\ScreenShotCapture\bin\Debug\ScreenShotCapture.pdb
+D:\Prakash\DemoSolution\ImageOperations\ScreenShotCapture\obj\x86\Debug\ScreenShotCapture.exe
+D:\Prakash\DemoSolution\ImageOperations\ScreenShotCapture\obj\x86\Debug\ScreenShotCapture.pdb
+D:\Prakash\DemoSolution\ImageOperations\ScreenShotCapture\obj\x86\Debug\ScreenShotCapture.csprojResolveAssemblyReference.cache

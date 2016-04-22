@@ -1,0 +1,12 @@
+D:\Prakash\DemoSolution\ImageOperations\ImageOperations\bin\Debug\ImageOperations.exe
+D:\Prakash\DemoSolution\ImageOperations\ImageOperations\bin\Debug\ImageOperations.pdb
+D:\Prakash\DemoSolution\ImageOperations\ImageOperations\obj\x86\Debug\ImageOperations.Form1.resources
+D:\Prakash\DemoSolution\ImageOperations\ImageOperations\obj\x86\Debug\ImageOperations.Properties.Resources.resources
+D:\Prakash\DemoSolution\ImageOperations\ImageOperations\obj\x86\Debug\ImageOperations.csproj.GenerateResource.Cache
+D:\Prakash\DemoSolution\ImageOperations\ImageOperations\obj\x86\Debug\ImageOperations.exe
+D:\Prakash\DemoSolution\ImageOperations\ImageOperations\obj\x86\Debug\ImageOperations.pdb
+D:\Prakash\DemoSolution\ImageOperations\ImageOperations\bin\Debug\ImageOperations.exe.manifest
+D:\Prakash\DemoSolution\ImageOperations\ImageOperations\bin\Debug\ImageOperations.application
+D:\Prakash\DemoSolution\ImageOperations\ImageOperations\obj\x86\Debug\ImageOperations.exe.manifest
+D:\Prakash\DemoSolution\ImageOperations\ImageOperations\obj\x86\Debug\ImageOperations.application
+D:\Prakash\DemoSolution\ImageOperations\ImageOperations\obj\x86\Debug\ImageOperations.csprojResolveAssemblyReference.cache

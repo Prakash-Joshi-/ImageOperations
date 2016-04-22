@@ -1,0 +1,4 @@
+D:\Prakash\DemoSolution\ImageOperations\SaveScreenshot\bin\Debug\SaveScreenshot.exe
+D:\Prakash\DemoSolution\ImageOperations\SaveScreenshot\bin\Debug\SaveScreenshot.pdb
+D:\Prakash\DemoSolution\ImageOperations\SaveScreenshot\obj\x86\Debug\SaveScreenshot.exe
+D:\Prakash\DemoSolution\ImageOperations\SaveScreenshot\obj\x86\Debug\SaveScreenshot.pdb
