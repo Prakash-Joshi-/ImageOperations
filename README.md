@@ -1,3 +1,2 @@
-# TestRepo
-TestRepo for Govind demo
-Edit 1
+# ImageOperations
+Includes basic image operation Screenshot capturing, croping and other editing operations
